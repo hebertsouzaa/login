@@ -63,3 +63,28 @@ input{
     width: 70px;
     border-radius: 0%;
 }
+footer{
+    position: absolute;
+    top: 95%;
+    left: 40%;
+    font-family: 'Rajdhani', sans-serif;
+    text-align: center;
+    color: #FFFFFF;
+}
+.botaõ-zap{
+    width: 300px;
+    height: 200px;
+    position: fixed;
+    right: 25px;
+    bottom: 40px;
+    background-color: #25d366;
+    color: #ffff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 40px;
+    box-shadow: 2px 2px 3px #999;
+    z-index: 100;
+}
+.icone-whatsapp{
+    margin-top: 11px;
+}
